@@ -1,3 +1,7 @@
+hi
+
+
+
 or create a new repository on the command line
 echo "# FoodieExpress" >> README.md
 git init
